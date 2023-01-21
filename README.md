@@ -1,2 +1,2 @@
 # Machine-Learning
-Practice Exercises
+Practicing machine learning algorithms on datasets
